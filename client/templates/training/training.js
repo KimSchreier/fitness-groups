@@ -1,0 +1,3 @@
+Template.training.rendered = function() {
+
+};
