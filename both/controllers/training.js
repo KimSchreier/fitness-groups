@@ -1,0 +1,5 @@
+TrainingController = AppController.extend({
+  data: {
+
+  }
+});
